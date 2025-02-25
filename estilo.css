@@ -1,0 +1,21 @@
+.interface
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.informacoes
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 20px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 40px;
+}
